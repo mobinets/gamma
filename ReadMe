@@ -1,0 +1,5 @@
+This is a TOSSIM code for the comparison of the sender selection metrics using the framework of MNP.
+
+1. Link quality defined in header files.
+2. Three kinds of metrics printed. (GAMMA, MNP, ECD)
+3. The sender selection follows MNP's manner which waits three rounds of ADVs before transmitting a piece of data.
